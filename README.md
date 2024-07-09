@@ -11,7 +11,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
 <div style="display: flex; flex-wrap: wrap;">
     <div style="text-align: center; margin-right: 10px; margin-bottom: 10px; width: 20%;">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -43,6 +42,9 @@
         </a>
         <div>Linux</div>
     </div>
+</div>
+
+<div style="display: flex; flex-wrap: wrap;">
     <div style="text-align: center; margin-right: 10px; margin-bottom: 10px; width: 20%;">
         <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -67,28 +69,11 @@
         </a>
         <div>scikit-learn</div>
     </div>
-</div>
-
-
-
-<div style="display: flex; align-items: center;">
-    <div style="text-align: center; margin-right: 10px;">
+    <div style="text-align: center; margin-right: 10px; margin-bottom: 10px; width: 20%;">
         <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
             <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
         </a>
         <div>Seaborn</div>
-    </div>
-    <div style="text-align: center; margin-right: 10px;">
-        <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-        </a>
-        <div>TensorFlow</div>
-    </div>
-    <div style="text-align: center;">
-        <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
-            <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="40" height="40"/>
-        </a>
-        <div>LangChain</div>
     </div>
 </div>
 
