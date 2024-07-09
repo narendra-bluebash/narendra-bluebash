@@ -10,24 +10,26 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <div style="text-align: center;">
+
+
+<div style="display: flex; gap: 20px;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-align: center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-    <span>Docker</span>
-  </div>
-</a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-  <div style="text-align: center;">
+    <br>
+    Docker
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer" style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-    <span>Google Cloud Platform</span>
-  </div>
-</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <div style="text-align: center;">
+    <br>
+    Google Cloud Platform
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-align: center;">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <span>Git</span>
-  </div>
-</a>
+    <br>
+    Git
+  </a>
+</div>
+
 
 </p>
 
