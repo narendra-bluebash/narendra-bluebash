@@ -11,6 +11,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
+
 <div style="display: flex; flex-wrap: wrap;">
     <div style="text-align: center; margin-right: 10px; margin-bottom: 10px; width: 20%;">
         <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
@@ -76,7 +78,6 @@
         <div>Seaborn</div>
     </div>
 </div>
-
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-bluebash&show_icons=true&locale=en&layout=compact" alt="narendra-bluebash" /></p>
