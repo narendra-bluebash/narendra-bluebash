@@ -7,6 +7,49 @@
 - 📫 How to reach me **narendra.dangi@gmail.co**
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
+```
+ ```html
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Logos with Distance</title>
+        <style>
+            .logo-container {
+                display: flex;
+                gap: 100px; /* Adjust the gap value as needed */
+                align-items: center;
+            }
+            .logo-container a {
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                text-decoration: none;
+                color: black;
+                font-family: Arial, sans-serif;
+            }
+            .logo-container img {
+                width: 40px;
+                height: 40px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="logo-container">
+            <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+                <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker"/>
+                Docker
+            </a>
+            <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+                <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp"/>
+                Google Cloud Platform
+            </a>
+        </div>
+    </body>
+    </html>
+    ```
+    
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
