@@ -7,8 +7,7 @@
 - 📫 How to reach me **narendra.dangi@gmail.co**
 - ⚡ Fun fact:  Python was named after the British comedy series "Monty Python's Flying Circus," not after the snake. Guido van Rossum, the creator of Python, chose this name because he wanted the programming language to be fun and not take itself too seriously!
 
-```
- ```html
+ ```
     <!DOCTYPE html>
     <html lang="en">
     <head>
@@ -48,8 +47,8 @@
         </div>
     </body>
     </html>
-    ```
-    
+```
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
