@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div style="display: flex; gap: 40px; align-items: center;">
+<div style="display: flex; gap: 80px; align-items: center;">
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 20px;"/>
         seaborn
@@ -19,12 +19,12 @@
         TensorFlow
     </a>
     <a href="https://www.langchain.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
-        <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="40" height="40" style="margin-right: 8px;"/>
+        <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="40" height="40" style="margin-right: 20px;"/>
         LangChain
     </a>
 </div>
 
-
+<!-- 
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 200px;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
@@ -74,7 +74,7 @@
     <img src="https://images.seeklogo.com/logo-png/52/1/langchain-logo-png_seeklogo-528369.png" alt="LangChain" width="40" height="40"/>
     LangChain
 </a>
-</p>
+</p> -->
 
 
 
