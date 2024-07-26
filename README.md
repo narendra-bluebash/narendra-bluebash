@@ -11,11 +11,11 @@
 
 <div style="display: flex; gap: 40px; align-items: center;">
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 8px;"/>
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 20px;"/>
         seaborn
     </a>
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 8px;"/>
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin-right: 20px;"/>
         TensorFlow
     </a>
     <a href="https://www.langchain.com" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
