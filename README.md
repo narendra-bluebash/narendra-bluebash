@@ -9,9 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Useful Links
-
-<div style="display: flex; gap: 20px; align-items: center;">
+<div style="display: flex; gap: 40px; align-items: center;">
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="text-decoration: none; color: black; display: flex; align-items: center;">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" style="margin-right: 8px;"/>
         seaborn
