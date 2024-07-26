@@ -9,7 +9,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left" style="display: flex; gap: 50px;">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     Docker
@@ -54,6 +54,10 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
     TensorFlow
   </a>
+  <a href="https://www.langchain.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/langchain/langchain-icon.svg" alt="LangChain" width="40" height="40"/>
+    LangChain
+</a>
 </p>
 
 
