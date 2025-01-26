@@ -67,4 +67,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+# Github Language Code
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narendra-bluebash&show_icons=true&locale=en&layout=compact" alt="narendra-bluebash" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=narendra-bluebash&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=narendra-bluebash&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=narendra-bluebash&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
