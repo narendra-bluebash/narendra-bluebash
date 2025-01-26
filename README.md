@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narendra Singh Dangi!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendra-bluebash&label=Profile%20views&color=0e75b6&style=flat" alt="narendra-bluebash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=narendrasinghdangi&label=Profile%20views&color=0e75b6&style=flat" alt="narendrasinghdangi" /> </p>
 
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning about building chatbot agents that analyze user inputs and generate intelligent responses to improve interactions.
